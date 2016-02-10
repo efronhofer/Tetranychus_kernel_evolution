@@ -1,0 +1,26 @@
+inputfile for parameters
+
+simulation time (sim_time)
+5000
+number of repeats (max_runs)
+1
+variance used for mutation (mut_sd)
+0.2
+mutation rate (mut_rate)
+0.0001
+habitat capacity (capacity)
+250
+fertility (lambda_null)
+5
+environmental stochasticity (sigma)
+0
+Allee effect strength (alpha)
+0
+random patch extinction number (epsilon)
+4
+dispersal mortality (mu0)
+0.2
+nearest neighbour dispersal (nnd: yes/no)
+yes
+clumped extinction treatment (clumped_ext: yes/no)
+yes
